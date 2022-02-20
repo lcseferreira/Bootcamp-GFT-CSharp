@@ -20,7 +20,7 @@ partial class Program
 
     static void ArrayMultidimensional()
     {
-        int[,] arrayMulti = new int[10, 5];
-        int[,,] arrayMulti = new int[10, 5, 10];
+        int[,] arrayMulti1 = new int[10, 5];
+        int[,,] arrayMulti2 = new int[10, 5, 10];
     }
 }
