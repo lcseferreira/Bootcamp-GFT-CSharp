@@ -11,6 +11,7 @@
             InstrucaoSwitch(meuArrayDeNomes);
             InstrucaoWhile();
             InstrucaoDo();
+            InstrucaoFor();
         }
 
         static void Declaracoes()
@@ -76,6 +77,14 @@
                 texto = Console.ReadLine();
                 Console.WriteLine(texto);
             } while (!string.IsNullOrEmpty(texto));
+        }
+
+        static void InstrucaoFor()
+        {
+            for (int i = 0; i <= 10; i++)
+            {
+                Console.WriteLine($"For: {i}");
+            }
         }
     }
 }
