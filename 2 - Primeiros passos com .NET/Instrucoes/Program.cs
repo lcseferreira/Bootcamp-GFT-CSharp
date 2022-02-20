@@ -15,6 +15,7 @@
             InstrucaoForEach();
             InstrucaoBreak();
             InstrucaoContinue();
+            InstrucaoReturn();
         }
 
         static void Declaracoes()
@@ -128,6 +129,17 @@
 
                 Console.WriteLine(x);
             }
+        }
+
+        static void InstrucaoReturn()
+        {
+
+            int Somar(int a, int b)
+            {
+                return a + b;
+            }
+
+            Console.WriteLine(Somar(5, 10));
         }
     }
 }
