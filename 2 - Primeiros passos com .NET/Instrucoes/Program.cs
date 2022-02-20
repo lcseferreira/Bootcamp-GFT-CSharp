@@ -14,6 +14,7 @@
             InstrucaoFor();
             InstrucaoForEach();
             InstrucaoBreak();
+            InstrucaoContinue();
         }
 
         static void Declaracoes()
@@ -111,6 +112,21 @@
                 }
 
                 Console.WriteLine(nome);
+            }
+        }
+
+        static void InstrucaoContinue()
+        {
+            for (int i = 0; i <= 5; i++)
+            {
+                int x = int.Parse(Console.ReadLine());
+
+                if (x == 0)
+                {
+                    continue;
+                }
+
+                Console.WriteLine(x);
             }
         }
     }
