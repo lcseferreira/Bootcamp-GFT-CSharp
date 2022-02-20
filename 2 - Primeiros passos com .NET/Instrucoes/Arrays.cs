@@ -17,4 +17,10 @@ partial class Program
             Console.WriteLine($"Número: {numero}");
         }
     }
+
+    static void ArrayMultidimensional()
+    {
+        int[,] arrayMulti = new int[10, 5];
+        int[,,] arrayMulti = new int[10, 5, 10];
+    }
 }
