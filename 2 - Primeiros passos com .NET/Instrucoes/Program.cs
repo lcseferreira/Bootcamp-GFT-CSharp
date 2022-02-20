@@ -10,6 +10,7 @@
             InstrucaoIf(meuArrayDeNomes);
             InstrucaoSwitch(meuArrayDeNomes);
             InstrucaoWhile();
+            InstrucaoDo();
         }
 
         static void Declaracoes()
@@ -64,6 +65,17 @@
                 Console.Write($"{contador} ");
                 contador++;
             }
+        }
+
+        static void InstrucaoDo()
+        {
+            string texto;
+
+            do
+            {
+                texto = Console.ReadLine();
+                Console.WriteLine(texto);
+            } while (!string.IsNullOrEmpty(texto));
         }
     }
 }
