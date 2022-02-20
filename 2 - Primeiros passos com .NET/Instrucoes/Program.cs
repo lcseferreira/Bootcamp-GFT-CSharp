@@ -9,6 +9,7 @@
             Declaracoes();
             InstrucaoIf(meuArrayDeNomes);
             InstrucaoSwitch(meuArrayDeNomes);
+            InstrucaoWhile();
         }
 
         static void Declaracoes()
@@ -51,6 +52,17 @@
                 default:
                     Console.WriteLine($"{numeroDeArgumentos} argumentos.");
                     break;
+            }
+        }
+
+        static void InstrucaoWhile()
+        {
+            int contador = 1;
+
+            while (contador <= 10)
+            {
+                Console.Write($"{contador} ");
+                contador++;
             }
         }
     }
