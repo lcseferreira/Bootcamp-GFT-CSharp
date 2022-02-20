@@ -1,0 +1,15 @@
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\2 - Primeiros passos com .NET\EstruturaDoPrograma\bin\Debug\net6.0\EstruturaDoPrograma.exe
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\2 - Primeiros passos com .NET\EstruturaDoPrograma\bin\Debug\net6.0\EstruturaDoPrograma.deps.json
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\2 - Primeiros passos com .NET\EstruturaDoPrograma\bin\Debug\net6.0\EstruturaDoPrograma.runtimeconfig.json
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\2 - Primeiros passos com .NET\EstruturaDoPrograma\bin\Debug\net6.0\EstruturaDoPrograma.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\2 - Primeiros passos com .NET\EstruturaDoPrograma\bin\Debug\net6.0\ref\EstruturaDoPrograma.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\2 - Primeiros passos com .NET\EstruturaDoPrograma\bin\Debug\net6.0\EstruturaDoPrograma.pdb
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\2 - Primeiros passos com .NET\EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.csproj.AssemblyReference.cache
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\2 - Primeiros passos com .NET\EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\2 - Primeiros passos com .NET\EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\2 - Primeiros passos com .NET\EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\2 - Primeiros passos com .NET\EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\2 - Primeiros passos com .NET\EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\2 - Primeiros passos com .NET\EstruturaDoPrograma\obj\Debug\net6.0\ref\EstruturaDoPrograma.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\2 - Primeiros passos com .NET\EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.pdb
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\2 - Primeiros passos com .NET\EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.genruntimeconfig.cache
