@@ -8,6 +8,7 @@
 
             Declaracoes();
             InstrucaoIf(meuArrayDeNomes);
+            InstrucaoSwitch(meuArrayDeNomes);
         }
 
         static void Declaracoes()
@@ -32,6 +33,24 @@
             else
             {
                 Console.WriteLine($"{args.Length} argumentos.");
+            }
+        }
+
+        static void InstrucaoSwitch(string[] args)
+        {
+            int numeroDeArgumentos = args.Length;
+
+            switch (numeroDeArgumentos)
+            {
+                case 0:
+                    Console.WriteLine("Nenhum argumento");
+                    break;
+                case 1:
+                    Console.WriteLine("1 argumento.");
+                    break;
+                default:
+                    Console.WriteLine($"{numeroDeArgumentos} argumentos.");
+                    break;
             }
         }
     }
