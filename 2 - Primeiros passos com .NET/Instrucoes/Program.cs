@@ -13,6 +13,7 @@
             InstrucaoDo();
             InstrucaoFor();
             InstrucaoForEach();
+            InstrucaoBreak();
         }
 
         static void Declaracoes()
@@ -94,6 +95,21 @@
 
             foreach (var nome in nomes)
             {
+                Console.WriteLine(nome);
+            }
+        }
+
+        static void InstrucaoBreak()
+        {
+            while (true)
+            {
+                string nome = Console.ReadLine();
+
+                if (string.IsNullOrEmpty(nome))
+                {
+                    break;
+                }
+
                 Console.WriteLine(nome);
             }
         }
