@@ -12,6 +12,7 @@
             InstrucaoWhile();
             InstrucaoDo();
             InstrucaoFor();
+            InstrucaoForEach();
         }
 
         static void Declaracoes()
@@ -84,6 +85,16 @@
             for (int i = 0; i <= 10; i++)
             {
                 Console.WriteLine($"For: {i}");
+            }
+        }
+
+        static void InstrucaoForEach()
+        {
+            string[] nomes = { "Lucas", "Eduardo", "Ferreira" };
+
+            foreach (var nome in nomes)
+            {
+                Console.WriteLine(nome);
             }
         }
     }
