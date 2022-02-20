@@ -16,5 +16,5 @@ public class Ponto
     // Métodos
     public void CalcularDistancia() { }
 
-    public virtual void CalcularDistanciaVirtual { }
+    public virtual void CalcularDistanciaVirtual() { }
 }
