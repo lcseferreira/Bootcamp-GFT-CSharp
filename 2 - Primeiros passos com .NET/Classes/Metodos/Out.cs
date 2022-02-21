@@ -5,7 +5,7 @@ public class Out
     static void Dividir(int x, int y, out int resultado, out int resto)
     {
         resultado = x / y;
-        resto = x % resto;
+        resto = x % y;
     }
 
     static void Dividir()
