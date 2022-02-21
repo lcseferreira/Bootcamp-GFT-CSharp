@@ -44,7 +44,31 @@ while (opcaoUsuario != "0")
 
             var media = soma / alunos.Count;
 
+            EConceito conceitoGeral;
+
+            if (media < 2)
+            {
+                conceitoGeral = EConceito.E;
+            }
+            else if (media < 4)
+            {
+                conceitoGeral = EConceito.D;
+            }
+            else if (media < 6)
+            {
+                conceitoGeral = EConceito.C;
+            }
+            else if (media < 8)
+            {
+                conceitoGeral = EConceito.B;
+            }
+            else
+            {
+                conceitoGeral = EConceito.A;
+            }
+
             Console.WriteLine($"Média dos alunos: {media.ToString("F2")}");
+            Console.WriteLine($"Conceito geral: {conceitoGeral}");
 
             break;
         default:
