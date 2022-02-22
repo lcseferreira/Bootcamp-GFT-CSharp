@@ -4,15 +4,14 @@ partial class Program
 {
     static void Main()
     {
-        // Value Type int - cópia por valor (alocação na stack)
-        int a = 2;
-        Adicionar20(a);
+        // Reference Type Pessoa
+        Pessoa pessoa = new Pessoa(nome: "Lucas", idade: 24, documento: "456123123-99");
 
-        WriteLine($"O valor da variável a é {a}");
+        WriteLine($"Nome da pessoa: {pessoa.Nome}");
 
-        // Atribuindo outro valor para a variável a
-        a = Adicionar30(a);
+        // Tipos por referência são alocados na heap, então o que é passado é a referência na memória
+        MudarNomePessoa(pessoa, "Lucas Eduardo");
 
-        WriteLine($"O valor da variável a é {a}");
+        WriteLine($"Nome da pessoa: {pessoa.Nome}");
     }
 }
