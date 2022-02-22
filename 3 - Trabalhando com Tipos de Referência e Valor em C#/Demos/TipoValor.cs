@@ -24,6 +24,10 @@ partial class Program
         a = Adicionar30(a);
 
         WriteLine($"O valor da variável a é {a}");
+    }
 
+    static void MudarNomePessoa(StructPessoa p1, string nome)
+    {
+        p1.Nome = nome;
     }
 }
