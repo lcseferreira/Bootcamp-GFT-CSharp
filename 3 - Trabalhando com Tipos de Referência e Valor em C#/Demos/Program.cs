@@ -4,14 +4,25 @@ partial class Program
 {
     static void Main()
     {
-        // Reference Type Pessoa
-        Pessoa pessoa = new Pessoa(nome: "Lucas", idade: 24, documento: "456123123-99");
+        var structPessoa1 = new StructPessoa()
+        {
+            Nome = "Lucas",
+            Idade = 24,
+            Documento = "3213214"
+        };
 
-        WriteLine($"Nome da pessoa: {pessoa.Nome}");
+        var structPessoa2 = structPessoa1;
 
-        // Tipos por referência são alocados na heap, então o que é passado é a referência na memória
-        MudarNomePessoa(pessoa, "Lucas Eduardo");
+        WriteLine($@"
+        Nome da pessoa1: {structPessoa1.Nome}
+        Nome da pessoa2: {structPessoa2.Nome}
+        ");
 
-        WriteLine($"Nome da pessoa: {pessoa.Nome}");
+        structPessoa2.Nome = "Lucas Eduardo Ferreira da Rosa";
+
+        WriteLine($@"
+        Nome da pessoa1: {structPessoa1.Nome}
+        Nome da pessoa2: {structPessoa2.Nome}
+        ");
     }
 }

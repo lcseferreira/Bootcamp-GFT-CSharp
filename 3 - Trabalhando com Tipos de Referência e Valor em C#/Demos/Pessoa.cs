@@ -13,4 +13,14 @@ public class Pessoa
         Documento = documento;
     }
 
+    public Pessoa Clone()
+    {
+        return new Pessoa
+        {
+            Nome = this.Nome,
+            Idade = this.Idade,
+            Documento = this.Documento
+        };
+    }
+
 }
