@@ -1,0 +1,15 @@
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\3 - Trabalhando com Tipos de Referência e Valor em C#\Demos\bin\Debug\net6.0\Demos.exe
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\3 - Trabalhando com Tipos de Referência e Valor em C#\Demos\bin\Debug\net6.0\Demos.deps.json
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\3 - Trabalhando com Tipos de Referência e Valor em C#\Demos\bin\Debug\net6.0\Demos.runtimeconfig.json
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\3 - Trabalhando com Tipos de Referência e Valor em C#\Demos\bin\Debug\net6.0\Demos.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\3 - Trabalhando com Tipos de Referência e Valor em C#\Demos\bin\Debug\net6.0\ref\Demos.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\3 - Trabalhando com Tipos de Referência e Valor em C#\Demos\bin\Debug\net6.0\Demos.pdb
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\3 - Trabalhando com Tipos de Referência e Valor em C#\Demos\obj\Debug\net6.0\Demos.csproj.AssemblyReference.cache
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\3 - Trabalhando com Tipos de Referência e Valor em C#\Demos\obj\Debug\net6.0\Demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\3 - Trabalhando com Tipos de Referência e Valor em C#\Demos\obj\Debug\net6.0\Demos.AssemblyInfoInputs.cache
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\3 - Trabalhando com Tipos de Referência e Valor em C#\Demos\obj\Debug\net6.0\Demos.AssemblyInfo.cs
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\3 - Trabalhando com Tipos de Referência e Valor em C#\Demos\obj\Debug\net6.0\Demos.csproj.CoreCompileInputs.cache
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\3 - Trabalhando com Tipos de Referência e Valor em C#\Demos\obj\Debug\net6.0\Demos.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\3 - Trabalhando com Tipos de Referência e Valor em C#\Demos\obj\Debug\net6.0\ref\Demos.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\3 - Trabalhando com Tipos de Referência e Valor em C#\Demos\obj\Debug\net6.0\Demos.pdb
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\3 - Trabalhando com Tipos de Referência e Valor em C#\Demos\obj\Debug\net6.0\Demos.genruntimeconfig.cache
