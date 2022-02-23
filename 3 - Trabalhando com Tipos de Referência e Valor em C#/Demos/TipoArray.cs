@@ -1,3 +1,5 @@
+using static System.Console;
+
 partial class Program
 {
 
@@ -7,5 +9,15 @@ partial class Program
         {
             pares[i] += 1;
         }
+    }
+
+    static void DemoArray()
+    {
+        int[] pares = { 0, 2, 4, 6, 8 };
+
+        MudarParImpar(pares);
+
+        foreach (var n in pares) { WriteLine(n); }
+        WriteLine($"{ string.Join(',', pares)}");
     }
 }
