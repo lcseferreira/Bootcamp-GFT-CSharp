@@ -1,0 +1,15 @@
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\5 - Abstraindo um jogo de RPG usando POO com C#\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.exe
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\5 - Abstraindo um jogo de RPG usando POO com C#\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.deps.json
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\5 - Abstraindo um jogo de RPG usando POO com C#\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.runtimeconfig.json
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\5 - Abstraindo um jogo de RPG usando POO com C#\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\5 - Abstraindo um jogo de RPG usando POO com C#\ProjetoRPG\bin\Debug\net6.0\ref\ProjetoRPG.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\5 - Abstraindo um jogo de RPG usando POO com C#\ProjetoRPG\bin\Debug\net6.0\ProjetoRPG.pdb
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\5 - Abstraindo um jogo de RPG usando POO com C#\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.csproj.AssemblyReference.cache
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\5 - Abstraindo um jogo de RPG usando POO com C#\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\5 - Abstraindo um jogo de RPG usando POO com C#\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.AssemblyInfoInputs.cache
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\5 - Abstraindo um jogo de RPG usando POO com C#\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.AssemblyInfo.cs
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\5 - Abstraindo um jogo de RPG usando POO com C#\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.csproj.CoreCompileInputs.cache
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\5 - Abstraindo um jogo de RPG usando POO com C#\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\5 - Abstraindo um jogo de RPG usando POO com C#\ProjetoRPG\obj\Debug\net6.0\ref\ProjetoRPG.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\5 - Abstraindo um jogo de RPG usando POO com C#\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.pdb
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\5 - Abstraindo um jogo de RPG usando POO com C#\ProjetoRPG\obj\Debug\net6.0\ProjetoRPG.genruntimeconfig.cache
