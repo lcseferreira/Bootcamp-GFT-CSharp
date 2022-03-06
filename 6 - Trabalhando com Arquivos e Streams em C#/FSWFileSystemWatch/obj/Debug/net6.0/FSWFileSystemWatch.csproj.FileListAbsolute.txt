@@ -1,0 +1,15 @@
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\FSWFileSystemWatch\bin\Debug\net6.0\FSWFileSystemWatch.exe
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\FSWFileSystemWatch\bin\Debug\net6.0\FSWFileSystemWatch.deps.json
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\FSWFileSystemWatch\bin\Debug\net6.0\FSWFileSystemWatch.runtimeconfig.json
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\FSWFileSystemWatch\bin\Debug\net6.0\FSWFileSystemWatch.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\FSWFileSystemWatch\bin\Debug\net6.0\ref\FSWFileSystemWatch.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\FSWFileSystemWatch\bin\Debug\net6.0\FSWFileSystemWatch.pdb
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\FSWFileSystemWatch\obj\Debug\net6.0\FSWFileSystemWatch.csproj.AssemblyReference.cache
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\FSWFileSystemWatch\obj\Debug\net6.0\FSWFileSystemWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\FSWFileSystemWatch\obj\Debug\net6.0\FSWFileSystemWatch.AssemblyInfoInputs.cache
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\FSWFileSystemWatch\obj\Debug\net6.0\FSWFileSystemWatch.AssemblyInfo.cs
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\FSWFileSystemWatch\obj\Debug\net6.0\FSWFileSystemWatch.csproj.CoreCompileInputs.cache
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\FSWFileSystemWatch\obj\Debug\net6.0\FSWFileSystemWatch.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\FSWFileSystemWatch\obj\Debug\net6.0\ref\FSWFileSystemWatch.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\FSWFileSystemWatch\obj\Debug\net6.0\FSWFileSystemWatch.pdb
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\FSWFileSystemWatch\obj\Debug\net6.0\FSWFileSystemWatch.genruntimeconfig.cache
