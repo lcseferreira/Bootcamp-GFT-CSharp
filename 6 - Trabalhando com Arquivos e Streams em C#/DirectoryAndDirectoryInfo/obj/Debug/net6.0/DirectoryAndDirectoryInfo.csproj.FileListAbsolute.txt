@@ -1,0 +1,15 @@
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.exe
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.deps.json
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.runtimeconfig.json
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\DirectoryAndDirectoryInfo\bin\Debug\net6.0\ref\DirectoryAndDirectoryInfo.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.pdb
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.AssemblyInfo.cs
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\DirectoryAndDirectoryInfo\obj\Debug\net6.0\ref\DirectoryAndDirectoryInfo.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.pdb
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.genruntimeconfig.cache
