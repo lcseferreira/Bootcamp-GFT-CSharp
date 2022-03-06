@@ -1,0 +1,15 @@
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\StringReaderAndWriter\bin\Debug\net6.0\StringReaderAndWriter.exe
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\StringReaderAndWriter\bin\Debug\net6.0\StringReaderAndWriter.deps.json
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\StringReaderAndWriter\bin\Debug\net6.0\StringReaderAndWriter.runtimeconfig.json
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\StringReaderAndWriter\bin\Debug\net6.0\StringReaderAndWriter.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\StringReaderAndWriter\bin\Debug\net6.0\ref\StringReaderAndWriter.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\StringReaderAndWriter\bin\Debug\net6.0\StringReaderAndWriter.pdb
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\StringReaderAndWriter\obj\Debug\net6.0\StringReaderAndWriter.csproj.AssemblyReference.cache
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\StringReaderAndWriter\obj\Debug\net6.0\StringReaderAndWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\StringReaderAndWriter\obj\Debug\net6.0\StringReaderAndWriter.AssemblyInfoInputs.cache
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\StringReaderAndWriter\obj\Debug\net6.0\StringReaderAndWriter.AssemblyInfo.cs
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\StringReaderAndWriter\obj\Debug\net6.0\StringReaderAndWriter.csproj.CoreCompileInputs.cache
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\StringReaderAndWriter\obj\Debug\net6.0\StringReaderAndWriter.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\StringReaderAndWriter\obj\Debug\net6.0\ref\StringReaderAndWriter.dll
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\StringReaderAndWriter\obj\Debug\net6.0\StringReaderAndWriter.pdb
+C:\Users\lcsef\Documents\Workspaces\bootcamp-gft-dotnet\6 - Trabalhando com Arquivos e Streams em C#\StringReaderAndWriter\obj\Debug\net6.0\StringReaderAndWriter.genruntimeconfig.cache
